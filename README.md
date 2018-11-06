@@ -1,7 +1,5 @@
 # NBA_team_score
-This Repository is for the Data Incubator Semifinalist Challenge. For this challenge I need to propose a Capstone Project that I intend to finish during the Data Incubator.
-
-I am proposing to design a NBA Trade and Draft Recommender System, in the hope that the following two questions can be answered:
+I am trying to design a NBA Trade and Draft Recommender System, in the hope that the following two questions can be answered:
 
 1. Given a current team combination, which player in the league best fit the team in a certain salary range?
 2. Whether a draft pick will improve my team or not? 
